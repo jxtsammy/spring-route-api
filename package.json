@@ -1,0 +1,24 @@
+{
+  "name": "yangoclonebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "firebase": "^10.12.4",
+    "firebase-admin": "^12.3.0",
+    "firebase-functions": "^5.0.1",
+    "geofire-common": "^6.0.0",
+    "gitignore": "^0.7.0",
+    "node-fetch": "^2.6.6"
+  }
+}
